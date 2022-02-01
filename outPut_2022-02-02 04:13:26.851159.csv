@@ -1,0 +1,51 @@
+Category,ItemName,Description,ItemPrice,OptionName,Options,OptionPrice
+Popular Items,Gyro Pita,"Lettuce, tomato, onion, tzatziki.",$13.65,Would you prefer a different side instead of our hand cut fries?,Substitute Rice,
+Popular Items,Gyro Pita,"Lettuce, tomato, onion, tzatziki.",$13.65,Would you prefer a different side instead of our hand cut fries?,Substitute Hummus,
+Popular Items,Gyro Pita,"Lettuce, tomato, onion, tzatziki.",$13.65,Would you prefer a different side instead of our hand cut fries?,Substitute Side Tossed Salad , $3.25
+Popular Items,Gyro Pita,"Lettuce, tomato, onion, tzatziki.",$13.65,Would you prefer a different side instead of our hand cut fries?,Substitute Tomato and Cucumber Salad , $2.60
+Popular Items,Gyro Pita,"Lettuce, tomato, onion, tzatziki.",$13.65,Would you prefer a different side instead of our hand cut fries?,Substitute Greek Feta Fries , $1.95
+Popular Items,Gyro Pita,"Lettuce, tomato, onion, tzatziki.",$13.65,Would you prefer a different side instead of our hand cut fries?,Substitute Side Greek Salad , $4.55
+Popular Items,Gyro Pita,"Lettuce, tomato, onion, tzatziki.",$13.65,Would you prefer a different side instead of our hand cut fries?,Substitute Grape Leaves , $3.90
+Popular Items,Grilled Chicken Pita,"Lettuce, tomato, tzatziki.",$13.65,Would you prefer a different side instead of our hand cut fries?,Substitute Rice,
+Popular Items,Grilled Chicken Pita,"Lettuce, tomato, tzatziki.",$13.65,Would you prefer a different side instead of our hand cut fries?,Substitute Hummus,
+Popular Items,Grilled Chicken Pita,"Lettuce, tomato, tzatziki.",$13.65,Would you prefer a different side instead of our hand cut fries?,Substitute Side Tossed Salad , $3.25
+Popular Items,Grilled Chicken Pita,"Lettuce, tomato, tzatziki.",$13.65,Would you prefer a different side instead of our hand cut fries?,Substitute Tomato and Cucumber Salad , $2.60
+Popular Items,Grilled Chicken Pita,"Lettuce, tomato, tzatziki.",$13.65,Would you prefer a different side instead of our hand cut fries?,Substitute Greek Feta Fries , $1.95
+Popular Items,Grilled Chicken Pita,"Lettuce, tomato, tzatziki.",$13.65,Would you prefer a different side instead of our hand cut fries?,Substitute Side Greek Salad , $4.55
+Popular Items,Grilled Chicken Pita,"Lettuce, tomato, tzatziki.",$13.65,Would you prefer a different side instead of our hand cut fries?,Substitute Grape Leaves , $3.90
+Popular Items,Mad Greek Salad,"Lettuce, tomatoes, onions, cucumbers, feta, green peppers, olives, pepperoncini peppers.",$11.25,Would you like to add any add-ons or have any extra of anything?,Add Gyro on Salad , $5.30
+Popular Items,Mad Greek Salad,"Lettuce, tomatoes, onions, cucumbers, feta, green peppers, olives, pepperoncini peppers.",$11.25,Would you like to add any add-ons or have any extra of anything?,Add Grilled Chicken on Salad , $5.30
+Popular Items,Mad Greek Salad,"Lettuce, tomatoes, onions, cucumbers, feta, green peppers, olives, pepperoncini peppers.",$11.25,Would you like to add any add-ons or have any extra of anything?,Add Pork Souvlaki on Salad , $5.30
+Popular Items,Mad Greek Salad,"Lettuce, tomatoes, onions, cucumbers, feta, green peppers, olives, pepperoncini peppers.",$11.25,Would you like to add any add-ons or have any extra of anything?,Add Grecian Pork on Salad , $5.30
+Popular Items,Mad Greek Salad,"Lettuce, tomatoes, onions, cucumbers, feta, green peppers, olives, pepperoncini peppers.",$11.25,Would you like to add any add-ons or have any extra of anything?,Add Grecian Chicken on Salad , $5.30
+Popular Items,Mad Greek Salad,"Lettuce, tomatoes, onions, cucumbers, feta, green peppers, olives, pepperoncini peppers.",$11.25,Would you like to add any add-ons or have any extra of anything?,Add Falafel on Salad , $5.30
+Popular Items,Mad Greek Salad,"Lettuce, tomatoes, onions, cucumbers, feta, green peppers, olives, pepperoncini peppers.",$11.25,Would you like to add any add-ons or have any extra of anything?,Add Salmon on Salad , $13.00
+Popular Items,Mad Greek Salad,"Lettuce, tomatoes, onions, cucumbers, feta, green peppers, olives, pepperoncini peppers.",$11.25,Would you like to add any add-ons or have any extra of anything?,Extra Dressing , $1.50
+Popular Items,Mad Greek Salad,"Lettuce, tomatoes, onions, cucumbers, feta, green peppers, olives, pepperoncini peppers.",$11.25,Would you like to add any add-ons or have any extra of anything?,Add Small Side Feta , $1.95
+Popular Items,Mad Greek Salad,"Lettuce, tomatoes, onions, cucumbers, feta, green peppers, olives, pepperoncini peppers.",$11.25,Would you like to add any add-ons or have any extra of anything?,Add Side Tzatziki , $2.60
+Starters,Grilled Chicken Salad,"Chicken, Lettuce, tomato, onion, peppers, cucumber, feta cheese",$14.93,Would you like to add any add-ons or have any extra of anything?,Add Gyro on Salad , $5.30
+Starters,Grilled Chicken Salad,"Chicken, Lettuce, tomato, onion, peppers, cucumber, feta cheese",$14.93,Would you like to add any add-ons or have any extra of anything?,Add Grilled Chicken on Salad , $5.30
+Starters,Grilled Chicken Salad,"Chicken, Lettuce, tomato, onion, peppers, cucumber, feta cheese",$14.93,Would you like to add any add-ons or have any extra of anything?,Add Pork Souvlaki on Salad , $5.30
+Starters,Grilled Chicken Salad,"Chicken, Lettuce, tomato, onion, peppers, cucumber, feta cheese",$14.93,Would you like to add any add-ons or have any extra of anything?,Add Grecian Pork on Salad , $5.30
+Starters,Grilled Chicken Salad,"Chicken, Lettuce, tomato, onion, peppers, cucumber, feta cheese",$14.93,Would you like to add any add-ons or have any extra of anything?,Add Grecian Chicken on Salad , $5.30
+Starters,Grilled Chicken Salad,"Chicken, Lettuce, tomato, onion, peppers, cucumber, feta cheese",$14.93,Would you like to add any add-ons or have any extra of anything?,Add Falafel on Salad , $5.30
+Starters,Grilled Chicken Salad,"Chicken, Lettuce, tomato, onion, peppers, cucumber, feta cheese",$14.93,Would you like to add any add-ons or have any extra of anything?,Add Salmon on Salad , $13.00
+Starters,Grilled Chicken Salad,"Chicken, Lettuce, tomato, onion, peppers, cucumber, feta cheese",$14.93,Would you like to add any add-ons or have any extra of anything?,Extra Dressing , $1.50
+Starters,Grilled Chicken Salad,"Chicken, Lettuce, tomato, onion, peppers, cucumber, feta cheese",$14.93,Would you like to add any add-ons or have any extra of anything?,Add Small Side Feta , $1.95
+Starters,Grilled Chicken Salad,"Chicken, Lettuce, tomato, onion, peppers, cucumber, feta cheese",$14.93,Would you like to add any add-ons or have any extra of anything?,Add Side Tzatziki , $2.60
+Starters,Grilled Chicken Salad,"Chicken, Lettuce, tomato, onion, peppers, cucumber, feta cheese",$14.93,Would you like to add any add-ons or have any extra of anything?,Substitute Ranch Dresing,
+Starters,Grilled Chicken Salad,"Chicken, Lettuce, tomato, onion, peppers, cucumber, feta cheese",$14.93,Would you like to add any add-ons or have any extra of anything?,Substitute Honey Mustard Dressing,
+Starters,Pita with Tzatziki,Pita with tzatziki sauce.,$4.38,,,
+Starters,Greek Fry Basket,"Fries topped with feta, oregano, lemon.",$5.62,,,
+Starters,Souvlaki Skewer Appetizer,Either pork or chicken with pita and tzatziki.,$6.87,Choose your skewers meat.,Pork,
+Starters,Souvlaki Skewer Appetizer,Either pork or chicken with pita and tzatziki.,$6.87,Choose your skewers meat.,Chicken,
+Starters,Mezze,"Sampling of spanakopita, hummus, tzatziki, feta, pita.",$12.43,,,
+Starters,Hummus Appetizer,Hummus served with pita.,$8.68,,,
+Starters,Grape Leaves Appetizer,Serving of 6 grape leaves stuffed with rice.,$9.37,,,
+Starters,Greek Gigantes Beans Appetizer,Roasted white beans in a tomato sauce.,$9.03,,,
+Starters,Spanakopita Appetizer,Spinach pie baked with feta.,$9.37,,,
+Starters,Dipping Duo,Hummus and tzatziki served with pita.,$11.18,,,
+Starters,Off the Spit Appetizer,"Choice of Gyro, Grecian Pork, or Grecian Chicken With Pita & Tzatziki",$11.25,What do you prefer to have fresh off the spit?,Gyro,
+Starters,Off the Spit Appetizer,"Choice of Gyro, Grecian Pork, or Grecian Chicken With Pita & Tzatziki",$11.25,What do you prefer to have fresh off the spit?,Grecian Chicken,
+Starters,Off the Spit Appetizer,"Choice of Gyro, Grecian Pork, or Grecian Chicken With Pita & Tzatziki",$11.25,What do you prefer to have fresh off the spit?,Grecian Pork,
+,Grecian Kebab Appetizer,Pork & Beef Sautéed With Tomato & Onion With Tzatziki,$10.31,,,
